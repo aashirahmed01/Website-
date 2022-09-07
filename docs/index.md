@@ -16,7 +16,7 @@ hello
 ![alt text](docs/IMG_7655.jpg)
 
 
-![alt text](https://github.com/aashirahmed01/Website-/IMG_7655.jpg)
+![alt text](https://github.com/aashirahmed01/Website-/docs/IMG_7655.jpg)
 
-![alt text](https://aashirahmed01.github.io/Website-/IMG_7655.jpg)
+![alt text](https://aashirahmed01.github.io/Website-/docs/IMG_7655.jpg)
 
